@@ -33,6 +33,7 @@ const Customizer = () => {
                     handleClick={() => {}}
                   />
                 ))}
+                {/* {generateTabContent()} */}
               </div>
             </div>
           </motion.div>
